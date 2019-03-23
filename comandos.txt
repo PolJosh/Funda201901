@@ -2,6 +2,10 @@ Hello
 
 He110
 
+<<<<<<< HEAD
 Rerererere
 
 reeeeeeeeeeeeeeee
+=======
+Rem
+>>>>>>> ac6228f0017940227c4f441248f191c6f4c66787
